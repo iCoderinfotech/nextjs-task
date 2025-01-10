@@ -1,5 +1,5 @@
 # nextjs-task
 
-here i have added the zip file and the document for the task
+Here i have added the zip file and the document for the task
 
-https://drive.google.com/drive/folders/12-1Y1Q0H4AtcX458AlxxPyqh-VbVNqhX?usp=sharing
+-->    https://drive.google.com/drive/folders/1mONsb4Rpm3iocTWIl0xzIY7P--34pOlT?usp=sharing
